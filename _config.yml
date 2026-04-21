@@ -1,0 +1,21 @@
+title: Anastasios Toumazatos
+email: tasos@umd.edu
+description: >-
+  Personal academic website of Anastasios (Tasos) Toumazatos, PhD student at
+  the University of Maryland.
+baseurl: ""
+url: "https://toumazatos.github.io"
+github_username: toumazatos
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - projects.md
+  - contact.md
+  - more.md
