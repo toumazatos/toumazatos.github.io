@@ -5,7 +5,6 @@ title: Home
 
 # Anastasios (Tasos) Toumazatos
 
-(Toumazatos)
 
 I am a second-year PhD student in Computer Science at the University of Maryland, College Park. My work sits at the intersection of systems, security, and machine learning, with a current focus on the security and robustness of learned components in database systems and AI agents.
 

@@ -10,10 +10,6 @@ permalink: /publications/
    **Authors:** Anastasios Toumazatos, John Pavlopoulos, Ion Androutsopoulos, Stavros Vassos  
    **Venue:** LREC-COLING 2024
 
-2. [GR-NLP-TOOLKIT: An Open-Source NLP Toolkit for Modern Greek](https://arxiv.org/abs/2412.08520)  
+2. [GR-NLP-TOOLKIT: An Open-Source NLP Toolkit for Modern Greek](https://aclanthology.org/2025.coling-demos.17/)  
    **Authors:** Lefteris Loukas, Nikolaos Smyrnioudis, Chrysa Dikonomaki, Spyros Barbakos, Anastasios Toumazatos, and collaborators  
-   **Venue:** arXiv, 2024
-
-3. [User Strategies for Social Bot Detection](https://www.cs.umd.edu/content/user-strategies-social-bot-detection)  
-   **Authors:** Simge Tekin, Patrick Gough, Anastasios Toumazatos  
-   **Venue:** Project report, University of Maryland, 2024
+   **Venue:** COLING 2025
